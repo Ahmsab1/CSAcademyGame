@@ -1,4 +1,4 @@
-# CS Academy Game Reborn 🕹️
+# CS Academy Game
 
 Originally made in CS Academy's Python Canvas environment.  
 Might rebuild in standard Python using Pygame Zero to make it portable and open-source.
